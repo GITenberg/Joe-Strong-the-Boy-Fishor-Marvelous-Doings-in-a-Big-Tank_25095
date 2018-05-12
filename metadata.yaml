@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '3584'
     url: http://www.gutenberg.org/2009/agents/3584
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25095#Joe-Strong-the-Boy-Fishor-Marvelous-Doings-in-a-Big-Tank
 gutenberg_issued: '2008-04-18'
 gutenberg_type: Text
 identifiers:
